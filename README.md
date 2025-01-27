@@ -1,2 +1,5 @@
 # House_Price_Prediction 
-# Streamlined hostel operations using the MERN stack, enhancing the efficiency of room allocation and fee management processes. Designed an intuitive interface for hostel staff to manage bookings, monitor room availability, and track financial records seamlessly. 
+# Developed a project to predict house prices based on key property features such as location, 
+size, and amenities. Processed raw data to make it suitable for modeling and created a predictive system using machine learning. 
+The project demonstrates skills in data preparation, machine learning, and application deployment with tools like Python, Pandas, 
+and Streamlit. 
