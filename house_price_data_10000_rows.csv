@@ -1,0 +1,519 @@
+Area (sq. ft.),Bedrooms,Bathrooms,Parking Spaces,Location,Building Type,Year Built,Distance to City (km),Nearby Amenities,Furnishing Status,Price (INR)
+2658,4,1,3,Urban,Independent House,2021,12.08,8,Semi-Furnished,15011230
+2872,2,3,3,Rural,Apartment,2003,19.14,1,Fully Furnished,2031000
+829,1,4,2,Rural,Apartment,2016,13.7,17,Unfurnished,2839419.09
+2833,4,3,2,Rural,Villa,2016,22.15,6,Semi-Furnished,15632579.12
+1184,4,2,2,Rural,Apartment,1992,42.57,15,Semi-Furnished,1248674
+2526,3,1,1,Urban,Independent House,2001,29.06,15,Unfurnished,17193742.23
+2320,5,4,0,Urban,Villa,1999,11.6,9,Unfurnished,7588103.62
+2003,4,4,1,Rural,Independent House,2015,45.39,2,Semi-Furnished,6024680.12
+1892,3,2,0,Rural,Villa,2004,25.8,7,Semi-Furnished,6832007.55
+2658,4,1,3,Urban,Independent House,2021,12.08,8,Semi-Furnished,15011230
+2872,2,3,3,Rural,Apartment,2003,19.14,1,Fully Furnished,2031000
+829,1,4,2,Rural,Apartment,2016,13.7,17,Unfurnished,2839419.09
+2833,4,3,2,Rural,Villa,2016,22.15,6,Semi-Furnished,15632579.12
+1184,4,2,2,Rural,Apartment,1992,42.57,15,Semi-Furnished,1248674
+2526,3,1,1,Urban,Independent House,2001,29.06,15,Unfurnished,17193742.23
+2320,5,4,0,Urban,Villa,1999,11.6,9,Unfurnished,7588103.62
+2003,4,4,1,Rural,Independent House,2015,45.39,2,Semi-Furnished,6024680.12
+1892,3,2,0,Rural,Villa,2004,25.8,7,Semi-Furnished,6832007.55
+1899,3,2,0,Suburban,Villa,2004,25.84672394,7,Semi-Furnished,6703139.539
+1185,4,2,2,Rural,Apartment,1992,42.06854503,15,Semi-Furnished,1258209.82
+2809,4,3,2,Suburban,Villa,2016,22.95544916,6,Semi-Furnished,14967866.9
+1866,3,2,0,Suburban,Villa,2004,25.61238739,7,Semi-Furnished,6786987.927
+1959,4,4,1,Rural,Independent House,2015,46.2711373,2,Semi-Furnished,6125586.531
+1231,4,2,2,Suburban,Apartment,1992,43.34348324,15,Semi-Furnished,1279920.93
+2278,5,4,0,Rural,Villa,1999,11.28022459,9,Unfurnished,7690929.378
+1964,4,4,1,Urban,Independent House,2015,44.45718566,2,Semi-Furnished,5821324.84
+1176,4,2,2,Urban,Apartment,1992,43.16418637,15,Semi-Furnished,1261073.484
+783,1,4,2,Suburban,Apartment,2016,13.99713003,17,Unfurnished,2764365.702
+791,1,4,2,Urban,Apartment,2016,13.46715313,17,Unfurnished,2863185.235
+826,1,4,2,Suburban,Apartment,2016,13.2463577,17,Unfurnished,2698441.198
+2901,2,3,3,Suburban,Apartment,2003,19.52862294,1,Fully Furnished,1996021.48
+2840,2,3,3,Suburban,Apartment,2003,18.97108522,1,Fully Furnished,2015468.823
+1957,4,4,1,Rural,Independent House,2015,44.42088705,2,Semi-Furnished,6064994.665
+855,1,4,2,Rural,Apartment,2016,13.4269797,17,Unfurnished,2943687.776
+1856,3,2,0,Rural,Villa,2004,26.58522814,7,Semi-Furnished,7118323.673
+1186,4,2,2,Urban,Apartment,1992,43.10394939,15,Semi-Furnished,1245963.073
+1158,4,2,2,Urban,Apartment,1992,41.74233908,15,Semi-Furnished,1238723.783
+805,1,4,2,Suburban,Apartment,2016,13.29941999,17,Unfurnished,2824104.078
+1897,3,2,0,Rural,Villa,2004,25.34172882,7,Semi-Furnished,6535984.911
+1885,3,2,0,Urban,Villa,2004,24.87671543,7,Semi-Furnished,6948557.32
+854,1,4,2,Suburban,Apartment,2016,13.13256303,17,Unfurnished,2835386.089
+1134,4,2,2,Suburban,Apartment,1992,42.85915466,15,Semi-Furnished,1298961.245
+1970,4,4,1,Rural,Independent House,2015,45.58382524,2,Semi-Furnished,6320777.834
+2661,4,1,3,Rural,Independent House,2021,12.54419606,8,Semi-Furnished,14626646.02
+2857,4,3,2,Rural,Villa,2016,21.69064393,6,Semi-Furnished,16072503.64
+2850,2,3,3,Rural,Apartment,2003,18.85136228,1,Fully Furnished,2038297.654
+2660,4,1,3,Rural,Independent House,2021,12.9600375,8,Semi-Furnished,14343335.56
+2885,2,3,3,Urban,Apartment,2003,18.85150363,1,Fully Furnished,2061040.025
+1912,3,2,0,Suburban,Villa,2004,24.98191618,7,Semi-Furnished,7161458.577
+2514,3,1,1,Urban,Independent House,2001,28.7562798,15,Unfurnished,16850340.57
+786,1,4,2,Suburban,Apartment,2016,13.30615838,17,Unfurnished,2918584.919
+814,1,4,2,Suburban,Apartment,2016,13.84679471,17,Unfurnished,2968891.303
+1896,3,2,0,Suburban,Villa,2004,26.25386367,7,Semi-Furnished,6925172.778
+2291,5,4,0,Urban,Villa,1999,11.44074993,9,Unfurnished,7812504.523
+1996,4,4,1,Suburban,Independent House,2015,45.39351769,2,Semi-Furnished,5811228.221
+1909,3,2,0,Suburban,Villa,2004,24.80465968,7,Semi-Furnished,6728118.662
+1887,3,2,0,Suburban,Villa,2004,26.7195649,7,Semi-Furnished,6578693.416
+816,1,4,2,Suburban,Apartment,2016,13.77570761,17,Unfurnished,2925759.591
+2708,4,1,3,Urban,Independent House,2021,12.39810045,8,Semi-Furnished,15696471.48
+2619,4,1,3,Suburban,Independent House,2021,12.60935193,8,Semi-Furnished,15142508.23
+2317,5,4,0,Suburban,Villa,1999,11.51448519,9,Unfurnished,7635223.904
+2552,3,1,1,Urban,Independent House,2001,29.66604734,15,Unfurnished,16956629.27
+1976,4,4,1,Rural,Independent House,2015,44.44527709,2,Semi-Furnished,5912748.844
+2858,2,3,3,Suburban,Apartment,2003,19.38572012,1,Fully Furnished,1940922.9
+2678,4,1,3,Rural,Independent House,2021,12.57714459,8,Semi-Furnished,15728240.26
+2858,2,3,3,Suburban,Apartment,2003,19.03770913,1,Fully Furnished,1943762.471
+2323,5,4,0,Rural,Villa,1999,10.79569198,9,Unfurnished,7443772.683
+2048,4,4,1,Rural,Independent House,2015,45.10967102,2,Semi-Furnished,5863026.393
+1882,3,2,0,Rural,Villa,2004,25.02467203,7,Semi-Furnished,6526439.764
+2293,5,4,0,Suburban,Villa,1999,12.35773033,9,Unfurnished,7540070.036
+2033,4,4,1,Rural,Independent House,2015,45.075875,2,Semi-Furnished,5963986.555
+2903,2,3,3,Urban,Apartment,2003,20.04589334,1,Fully Furnished,2114210.091
+2808,4,3,2,Suburban,Villa,2016,22.77673315,6,Semi-Furnished,16208836.15
+1224,4,2,2,Suburban,Apartment,1992,41.61329826,15,Semi-Furnished,1273454.751
+2563,3,1,1,Urban,Independent House,2001,29.00450914,15,Unfurnished,17024049.54
+2679,4,1,3,Suburban,Independent House,2021,11.69674808,8,Semi-Furnished,15468546.92
+2855,4,3,2,Suburban,Villa,2016,23.09802102,6,Semi-Furnished,15686122.79
+2493,3,1,1,Urban,Independent House,2001,28.79161385,15,Unfurnished,17021861.27
+2035,4,4,1,Urban,Independent House,2015,44.60742854,2,Semi-Furnished,5828163.785
+1204,4,2,2,Rural,Apartment,1992,43.47010859,15,Semi-Furnished,1199409.583
+2507,3,1,1,Suburban,Independent House,2001,28.75363985,15,Unfurnished,16740667.54
+2794,4,3,2,Suburban,Villa,2016,21.45019339,6,Semi-Furnished,15263001.53
+1183,4,2,2,Urban,Apartment,1992,42.94437711,15,Semi-Furnished,1250101.859
+833,1,4,2,Suburban,Apartment,2016,14.21524509,17,Unfurnished,2900163.538
+2691,4,1,3,Urban,Independent House,2021,11.93856571,8,Semi-Furnished,15520278.39
+1226,4,2,2,Rural,Apartment,1992,42.85773945,15,Semi-Furnished,1222458.877
+2615,4,1,3,Suburban,Independent House,2021,12.84102936,8,Semi-Furnished,15089007.46
+2886,2,3,3,Suburban,Apartment,2003,19.62860601,1,Fully Furnished,2048723.602
+1166,4,2,2,Rural,Apartment,1992,41.66215872,15,Semi-Furnished,1224582.3
+2850,4,3,2,Rural,Villa,2016,22.43060871,6,Semi-Furnished,15928798.97
+2676,4,1,3,Urban,Independent House,2021,11.48660136,8,Semi-Furnished,15142165.06
+2358,5,4,0,Urban,Villa,1999,11.72482808,9,Unfurnished,7372924.118
+2656,4,1,3,Suburban,Independent House,2021,11.8414253,8,Semi-Furnished,14725379.29
+2353,5,4,0,Urban,Villa,1999,12.10387706,9,Unfurnished,7448711.124
+2872,4,3,2,Suburban,Villa,2016,21.3071367,6,Semi-Furnished,15608639.28
+2866,2,3,3,Suburban,Apartment,2003,19.95850823,1,Fully Furnished,1955296.212
+2664,4,1,3,Rural,Independent House,2021,11.0828488,8,Semi-Furnished,15073257.25
+2831,2,3,3,Urban,Apartment,2003,18.92893804,1,Fully Furnished,1991707.021
+1935,3,2,0,Suburban,Villa,2004,26.51371181,7,Semi-Furnished,6794883.35
+1192,4,2,2,Urban,Apartment,1992,43.33164401,15,Semi-Furnished,1261768.128
+2307,5,4,0,Urban,Villa,1999,11.72737175,9,Unfurnished,7806203.336
+2511,3,1,1,Rural,Independent House,2001,28.44977445,15,Unfurnished,17785521.47
+2708,4,1,3,Rural,Independent House,2021,11.66555115,8,Semi-Furnished,15620563.33
+2620,4,1,3,Urban,Independent House,2021,11.52428378,8,Semi-Furnished,14727250.76
+2013,4,4,1,Suburban,Independent House,2015,45.43484581,2,Semi-Furnished,5937447.661
+2693,4,1,3,Urban,Independent House,2021,11.53757554,8,Semi-Furnished,14590575.66
+2321,5,4,0,Urban,Villa,1999,11.70909208,9,Unfurnished,7490177.491
+2284,5,4,0,Suburban,Villa,1999,12.32819317,9,Unfurnished,7790788.271
+2848,4,3,2,Suburban,Villa,2016,21.37139344,6,Semi-Furnished,16195498.65
+841,1,4,2,Rural,Apartment,2016,13.09558789,17,Unfurnished,2860356.319
+1206,4,2,2,Rural,Apartment,1992,41.65104778,15,Semi-Furnished,1201251.456
+2489,3,1,1,Rural,Independent House,2001,29.78007205,15,Unfurnished,17358440.49
+2787,4,3,2,Rural,Villa,2016,22.9995752,6,Semi-Furnished,16124097.93
+2677,4,1,3,Rural,Independent House,2021,12.73030414,8,Semi-Furnished,15021443.58
+1937,3,2,0,Rural,Villa,2004,26.04812653,7,Semi-Furnished,6582851.524
+2359,5,4,0,Rural,Villa,1999,11.03179436,9,Unfurnished,7821994.219
+2911,2,3,3,Rural,Apartment,2003,18.69545363,1,Fully Furnished,1956194.785
+2033,4,4,1,Suburban,Independent House,2015,45.25955739,2,Semi-Furnished,5998928.115
+865,1,4,2,Rural,Apartment,2016,12.94071332,17,Unfurnished,2749599.821
+1936,3,2,0,Suburban,Villa,2004,26.09438176,7,Semi-Furnished,6974730.948
+2805,4,3,2,Rural,Villa,2016,21.65606413,6,Semi-Furnished,15795137.62
+2656,4,1,3,Urban,Independent House,2021,13.03835509,8,Semi-Furnished,15595871.4
+1892,3,2,0,Suburban,Villa,2004,25.23648734,7,Semi-Furnished,6772708.619
+2346,5,4,0,Suburban,Villa,1999,12.34670582,9,Unfurnished,7702954.661
+1966,4,4,1,Suburban,Independent House,2015,44.61737647,2,Semi-Furnished,5753408.823
+1976,4,4,1,Suburban,Independent House,2015,45.4161477,2,Semi-Furnished,6099983.031
+2640,4,1,3,Rural,Independent House,2021,11.43566791,8,Semi-Furnished,15132206.24
+2920,2,3,3,Urban,Apartment,2003,19.65591513,1,Fully Furnished,2044797.634
+1183,4,2,2,Suburban,Apartment,1992,42.25837798,15,Semi-Furnished,1207787.431
+1941,3,2,0,Rural,Villa,2004,26.30310698,7,Semi-Furnished,6551124.158
+1138,4,2,2,Urban,Apartment,1992,42.60132541,15,Semi-Furnished,1245045.393
+2692,4,1,3,Urban,Independent House,2021,12.28333067,8,Semi-Furnished,15361250.95
+2005,4,4,1,Urban,Independent House,2015,44.98320763,2,Semi-Furnished,5789741.703
+811,1,4,2,Rural,Apartment,2016,13.46405158,17,Unfurnished,2747685.559
+2854,2,3,3,Suburban,Apartment,2003,18.83381968,1,Fully Furnished,1955126.435
+2692,4,1,3,Rural,Independent House,2021,12.98718742,8,Semi-Furnished,14684418.92
+2861,4,3,2,Urban,Villa,2016,21.82546877,6,Semi-Furnished,15411418.1
+2340,5,4,0,Rural,Villa,1999,12.21679857,9,Unfurnished,7323131.111
+2858,4,3,2,Rural,Villa,2016,21.36333186,6,Semi-Furnished,16052688.37
+2873,4,3,2,Suburban,Villa,2016,23.07938465,6,Semi-Furnished,15117229.43
+1156,4,2,2,Urban,Apartment,1992,43.32235326,15,Semi-Furnished,1284913.934
+2504,3,1,1,Rural,Independent House,2001,29.30217932,15,Unfurnished,16729163.65
+2707,4,1,3,Urban,Independent House,2021,12.3440824,8,Semi-Furnished,15196961.68
+839,1,4,2,Rural,Apartment,2016,12.8509362,17,Unfurnished,2758073.001
+2014,4,4,1,Urban,Independent House,2015,46.36305154,2,Semi-Furnished,5866262.796
+1170,4,2,2,Suburban,Apartment,1992,41.89689367,15,Semi-Furnished,1279268.6
+864,1,4,2,Urban,Apartment,2016,14.27011432,17,Unfurnished,2956887.649
+1865,3,2,0,Suburban,Villa,2004,24.86542132,7,Semi-Furnished,6941995.719
+2529,3,1,1,Suburban,Independent House,2001,28.59374263,15,Unfurnished,17353258.14
+1882,3,2,0,Rural,Villa,2004,25.13608083,7,Semi-Furnished,6492952.324
+1977,4,4,1,Rural,Independent House,2015,45.10256102,2,Semi-Furnished,5969526.242
+1154,4,2,2,Urban,Apartment,1992,42.23164802,15,Semi-Furnished,1245922.73
+1151,4,2,2,Rural,Apartment,1992,43.21817356,15,Semi-Furnished,1282026.493
+2837,2,3,3,Suburban,Apartment,2003,18.2248718,1,Fully Furnished,2113502.483
+2856,4,3,2,Urban,Villa,2016,22.8965411,6,Semi-Furnished,15838944
+2366,5,4,0,Suburban,Villa,1999,12.54885238,9,Unfurnished,7276212.695
+1913,3,2,0,Rural,Villa,2004,25.10189307,7,Semi-Furnished,6647690.07
+2538,3,1,1,Rural,Independent House,2001,28.60693145,15,Unfurnished,17736267.97
+1849,3,2,0,Rural,Villa,2004,25.1643,7,Semi-Furnished,6574717.913
+2702,4,1,3,Rural,Independent House,2021,12.3757877,8,Semi-Furnished,14505149.33
+1163,4,2,2,Rural,Apartment,1992,42.15972751,15,Semi-Furnished,1204567.77
+2708,4,1,3,Rural,Independent House,2021,12.72020437,8,Semi-Furnished,15174847.31
+2614,4,1,3,Urban,Independent House,2021,11.15529611,8,Semi-Furnished,14756467.51
+2835,4,3,2,Suburban,Villa,2016,23.09126692,6,Semi-Furnished,14960226.22
+2019,4,4,1,Rural,Independent House,2015,44.87102444,2,Semi-Furnished,5847126.341
+832,1,4,2,Urban,Apartment,2016,14.6330278,17,Unfurnished,2980157.362
+1153,4,2,2,Rural,Apartment,1992,42.01117076,15,Semi-Furnished,1251183.292
+2518,3,1,1,Suburban,Independent House,2001,28.52156704,15,Unfurnished,16537586.07
+2615,4,1,3,Urban,Independent House,2021,11.56719246,8,Semi-Furnished,14794215.19
+2341,5,4,0,Suburban,Villa,1999,10.70707268,9,Unfurnished,7250194.012
+1182,4,2,2,Suburban,Apartment,1992,41.87747714,15,Semi-Furnished,1240573.302
+2487,3,1,1,Urban,Independent House,2001,29.00601622,15,Unfurnished,16594482.32
+2865,4,3,2,Suburban,Villa,2016,21.37221179,6,Semi-Furnished,15304549.85
+2574,3,1,1,Rural,Independent House,2001,28.8797557,15,Unfurnished,17489493.9
+791,1,4,2,Urban,Apartment,2016,13.34968766,17,Unfurnished,2817133.246
+2309,5,4,0,Rural,Villa,1999,10.74290556,9,Unfurnished,7316779.859
+2693,4,1,3,Suburban,Independent House,2021,12.73734029,8,Semi-Furnished,14426614.4
+2322,5,4,0,Urban,Villa,1999,10.81784948,9,Unfurnished,7271807.391
+2657,4,1,3,Urban,Independent House,2021,11.74594825,8,Semi-Furnished,15217794.32
+2567,3,1,1,Urban,Independent House,2001,28.16132297,15,Unfurnished,17640914.61
+2883,4,3,2,Rural,Villa,2016,22.66549594,6,Semi-Furnished,15517108.09
+2644,4,1,3,Urban,Independent House,2021,12.25862699,8,Semi-Furnished,15604624.64
+2618,4,1,3,Rural,Independent House,2021,11.54677543,8,Semi-Furnished,15309221.48
+2567,3,1,1,Suburban,Independent House,2001,28.81558685,15,Unfurnished,16369356.09
+2041,4,4,1,Urban,Independent House,2015,45.71998594,2,Semi-Furnished,5865502.872
+1140,4,2,2,Rural,Apartment,1992,43.29658411,15,Semi-Furnished,1203761.547
+2288,5,4,0,Rural,Villa,1999,11.57063332,9,Unfurnished,7367729.186
+1226,4,2,2,Suburban,Apartment,1992,41.71410929,15,Semi-Furnished,1300603.783
+827,1,4,2,Suburban,Apartment,2016,12.86418721,17,Unfurnished,2831396.149
+2546,3,1,1,Suburban,Independent House,2001,28.33652092,15,Unfurnished,17181374.15
+2860,4,3,2,Rural,Villa,2016,22.93473774,6,Semi-Furnished,15227897.29
+2800,4,3,2,Urban,Villa,2016,22.6033941,6,Semi-Furnished,16153717.28
+2691,4,1,3,Urban,Independent House,2021,13.00045134,8,Semi-Furnished,14326941.55
+2034,4,4,1,Rural,Independent House,2015,44.71980966,2,Semi-Furnished,6049726.26
+2663,4,1,3,Urban,Independent House,2021,12.30144903,8,Semi-Furnished,14268885.75
+2040,4,4,1,Suburban,Independent House,2015,46.18571639,2,Semi-Furnished,6156429.804
+2029,4,4,1,Suburban,Independent House,2015,45.33244511,2,Semi-Furnished,6261005.272
+2640,4,1,3,Suburban,Independent House,2021,11.28676361,8,Semi-Furnished,15475134.69
+2024,4,4,1,Rural,Independent House,2015,44.67375126,2,Semi-Furnished,6294235.21
+2910,2,3,3,Urban,Apartment,2003,19.73684619,1,Fully Furnished,2003278.211
+2574,3,1,1,Urban,Independent House,2001,29.31081295,15,Unfurnished,16353866.56
+2836,4,3,2,Rural,Villa,2016,21.99252907,6,Semi-Furnished,16212283.23
+1141,4,2,2,Rural,Apartment,1992,41.98931406,15,Semi-Furnished,1191702.668
+1983,4,4,1,Suburban,Independent House,2015,45.51978451,2,Semi-Furnished,5780531.907
+2499,3,1,1,Rural,Independent House,2001,30.00905369,15,Unfurnished,16473213.52
+2700,4,1,3,Urban,Independent House,2021,12.58537941,8,Semi-Furnished,14828938.42
+1849,3,2,0,Urban,Villa,2004,25.51080441,7,Semi-Furnished,7143763.947
+2849,4,3,2,Suburban,Villa,2016,22.16559813,6,Semi-Furnished,15445197.03
+1930,3,2,0,Urban,Villa,2004,25.40373177,7,Semi-Furnished,6777036.225
+2693,4,1,3,Urban,Independent House,2021,11.46930871,8,Semi-Furnished,14964408.57
+2867,4,3,2,Suburban,Villa,2016,22.91402301,6,Semi-Furnished,16269081.22
+2898,2,3,3,Urban,Apartment,2003,18.5962943,1,Fully Furnished,1995744.41
+1848,3,2,0,Rural,Villa,2004,25.40896353,7,Semi-Furnished,6658714.017
+1934,3,2,0,Urban,Villa,2004,26.26438866,7,Semi-Furnished,6636174.328
+2699,4,1,3,Urban,Independent House,2021,12.46821676,8,Semi-Furnished,15399698.1
+2657,4,1,3,Rural,Independent House,2021,11.96689748,8,Semi-Furnished,14648587.98
+2532,3,1,1,Suburban,Independent House,2001,29.71480517,15,Unfurnished,17224225.24
+2905,2,3,3,Urban,Apartment,2003,19.52839644,1,Fully Furnished,1941161.311
+2805,4,3,2,Rural,Villa,2016,22.07563639,6,Semi-Furnished,15083701.04
+2284,5,4,0,Urban,Villa,1999,10.98420573,9,Unfurnished,7688900.177
+1981,4,4,1,Suburban,Independent House,2015,45.48626112,2,Semi-Furnished,5728385.59
+2704,4,1,3,Rural,Independent House,2021,11.9168005,8,Semi-Furnished,14641837.88
+2919,2,3,3,Suburban,Apartment,2003,18.15064494,1,Fully Furnished,1941864.78
+2803,4,3,2,Urban,Villa,2016,22.92176396,6,Semi-Furnished,15031588.89
+2837,4,3,2,Rural,Villa,2016,21.48108162,6,Semi-Furnished,15390998.67
+820,1,4,2,Suburban,Apartment,2016,12.89118386,17,Unfurnished,2934244.51
+2323,5,4,0,Urban,Villa,1999,10.96681632,9,Unfurnished,7375319.646
+1212,4,2,2,Rural,Apartment,1992,41.97878258,15,Semi-Furnished,1225183.348
+2608,4,1,3,Urban,Independent House,2021,11.68675917,8,Semi-Furnished,14720739.4
+1960,4,4,1,Rural,Independent House,2015,44.58937959,2,Semi-Furnished,5999723.683
+1872,3,2,0,Urban,Villa,2004,26.52835916,7,Semi-Furnished,6970245.867
+854,1,4,2,Urban,Apartment,2016,13.44448093,17,Unfurnished,2758454.47
+1157,4,2,2,Rural,Apartment,1992,43.22925503,15,Semi-Furnished,1255092.618
+2863,2,3,3,Rural,Apartment,2003,20.06800566,1,Fully Furnished,2128768.136
+2028,4,4,1,Suburban,Independent House,2015,46.06187907,2,Semi-Furnished,6095864.524
+1940,3,2,0,Urban,Villa,2004,25.78353762,7,Semi-Furnished,6814527.613
+788,1,4,2,Suburban,Apartment,2016,14.50802156,17,Unfurnished,2819888.659
+1178,4,2,2,Suburban,Apartment,1992,43.07133208,15,Semi-Furnished,1234967.109
+2848,4,3,2,Suburban,Villa,2016,22.57113111,6,Semi-Furnished,15551825.31
+826,1,4,2,Rural,Apartment,2016,14.08636204,17,Unfurnished,2888413.773
+2045,4,4,1,Rural,Independent House,2015,46.1234133,2,Semi-Furnished,6230273.876
+1927,3,2,0,Rural,Villa,2004,25.86357361,7,Semi-Furnished,6986490.274
+2684,4,1,3,Suburban,Independent House,2021,13.01857006,8,Semi-Furnished,14361729.17
+2829,4,3,2,Rural,Villa,2016,21.64033219,6,Semi-Furnished,14973066.13
+2689,4,1,3,Suburban,Independent House,2021,12.50647374,8,Semi-Furnished,14954813.37
+2342,5,4,0,Rural,Villa,1999,12.21631779,9,Unfurnished,7249340.977
+1138,4,2,2,Rural,Apartment,1992,41.72657092,15,Semi-Furnished,1216990.183
+798,1,4,2,Suburban,Apartment,2016,14.60867472,17,Unfurnished,2862186.758
+2796,4,3,2,Suburban,Villa,2016,21.1916765,6,Semi-Furnished,15504671.36
+2507,3,1,1,Suburban,Independent House,2001,29.73116366,15,Unfurnished,17578877.17
+1936,3,2,0,Suburban,Villa,2004,26.67506495,7,Semi-Furnished,6755933.138
+2644,4,1,3,Urban,Independent House,2021,12.13110833,8,Semi-Furnished,14898206.84
+2881,2,3,3,Urban,Apartment,2003,18.86342743,1,Fully Furnished,2101953.593
+2337,5,4,0,Rural,Villa,1999,11.77225146,9,Unfurnished,7847323.604
+2641,4,1,3,Suburban,Independent House,2021,12.07301293,8,Semi-Furnished,14994722.1
+835,1,4,2,Rural,Apartment,2016,12.98638657,17,Unfurnished,2749158.829
+2013,4,4,1,Suburban,Independent House,2015,45.15730581,2,Semi-Furnished,6011706.019
+2796,4,3,2,Rural,Villa,2016,22.70556899,6,Semi-Furnished,15483405.23
+2815,4,3,2,Rural,Villa,2016,21.41009385,6,Semi-Furnished,15903725.49
+2053,4,4,1,Urban,Independent House,2015,44.7591588,2,Semi-Furnished,6063908.609
+2862,2,3,3,Rural,Apartment,2003,18.92033262,1,Fully Furnished,2094945.205
+2026,4,4,1,Urban,Independent House,2015,45.56811901,2,Semi-Furnished,6254576.051
+2539,3,1,1,Rural,Independent House,2001,28.69533898,15,Unfurnished,17637798.94
+2700,4,1,3,Urban,Independent House,2021,12.69172228,8,Semi-Furnished,15486859.02
+821,1,4,2,Urban,Apartment,2016,13.77468697,17,Unfurnished,2896610.998
+1940,3,2,0,Urban,Villa,2004,26.48325651,7,Semi-Furnished,6926710.321
+2292,5,4,0,Urban,Villa,1999,12.01126585,9,Unfurnished,7489983.795
+2506,3,1,1,Suburban,Independent House,2001,29.60180594,15,Unfurnished,16560158.15
+2011,4,4,1,Rural,Independent House,2015,45.63096632,2,Semi-Furnished,5876603.046
+848,1,4,2,Rural,Apartment,2016,13.4354116,17,Unfurnished,2862530.314
+2839,4,3,2,Urban,Villa,2016,22.96904909,6,Semi-Furnished,15521567.86
+2550,3,1,1,Rural,Independent House,2001,28.51409327,15,Unfurnished,17088304.49
+2484,3,1,1,Suburban,Independent House,2001,28.25037111,15,Unfurnished,17920075.51
+2291,5,4,0,Urban,Villa,1999,11.78287806,9,Unfurnished,7562512.09
+1145,4,2,2,Urban,Apartment,1992,42.59494683,15,Semi-Furnished,1229020.631
+2825,4,3,2,Rural,Villa,2016,22.23208487,6,Semi-Furnished,15991728.16
+2020,4,4,1,Rural,Independent House,2015,45.35358145,2,Semi-Furnished,6186719.334
+1139,4,2,2,Suburban,Apartment,1992,41.6434878,15,Semi-Furnished,1278124.265
+2366,5,4,0,Urban,Villa,1999,11.6140167,9,Unfurnished,7871679.702
+2003,4,4,1,Suburban,Independent House,2015,44.84228232,2,Semi-Furnished,5807845.14
+2822,2,3,3,Rural,Apartment,2003,20.13166133,1,Fully Furnished,2117750.533
+865,1,4,2,Urban,Apartment,2016,13.02071158,17,Unfurnished,2760054.879
+2855,4,3,2,Rural,Villa,2016,22.79416185,6,Semi-Furnished,15242880.91
+2564,3,1,1,Urban,Independent House,2001,28.17650659,15,Unfurnished,17516437.75
+2823,2,3,3,Rural,Apartment,2003,19.58004797,1,Fully Furnished,1970496.86
+2855,4,3,2,Suburban,Villa,2016,22.36309485,6,Semi-Furnished,15819492.18
+2864,4,3,2,Urban,Villa,2016,21.17743302,6,Semi-Furnished,15002947.35
+2573,3,1,1,Suburban,Independent House,2001,29.46060811,15,Unfurnished,16694512.74
+779,1,4,2,Suburban,Apartment,2016,13.3670716,17,Unfurnished,2794686.032
+2655,4,1,3,Urban,Independent House,2021,11.82096088,8,Semi-Furnished,14295484.23
+1924,3,2,0,Urban,Villa,2004,25.71386712,7,Semi-Furnished,6738630.809
+2559,3,1,1,Suburban,Independent House,2001,28.97155858,15,Unfurnished,17203366.5
+2028,4,4,1,Suburban,Independent House,2015,45.79293183,2,Semi-Furnished,6145667.16
+2913,2,3,3,Suburban,Apartment,2003,18.60810033,1,Fully Furnished,1970556.802
+1864,3,2,0,Suburban,Villa,2004,25.97714011,7,Semi-Furnished,6897738.9
+1194,4,2,2,Urban,Apartment,1992,43.00318801,15,Semi-Furnished,1285640.924
+2326,5,4,0,Urban,Villa,1999,11.98461139,9,Unfurnished,7931543.3
+2364,5,4,0,Suburban,Villa,1999,10.96763412,9,Unfurnished,7445410.13
+2608,4,1,3,Suburban,Independent House,2021,11.47014638,8,Semi-Furnished,15467659.46
+2844,4,3,2,Urban,Villa,2016,21.48499538,6,Semi-Furnished,16032006.95
+2025,4,4,1,Urban,Independent House,2015,44.5480073,2,Semi-Furnished,6046275.83
+2052,4,4,1,Rural,Independent House,2015,45.19134108,2,Semi-Furnished,6058103.171
+2035,4,4,1,Rural,Independent House,2015,44.94982033,2,Semi-Furnished,6056466.54
+857,1,4,2,Rural,Apartment,2016,13.14167011,17,Unfurnished,2797238.434
+2901,2,3,3,Rural,Apartment,2003,18.64679746,1,Fully Furnished,2080817.842
+2845,4,3,2,Urban,Villa,2016,22.66205915,6,Semi-Furnished,15975943.63
+2347,5,4,0,Urban,Villa,1999,12.56731452,9,Unfurnished,7379524.117
+2862,4,3,2,Urban,Villa,2016,22.77120756,6,Semi-Furnished,16047258.23
+2797,4,3,2,Rural,Villa,2016,22.83065313,6,Semi-Furnished,15649614.05
+2687,4,1,3,Suburban,Independent House,2021,11.37605361,8,Semi-Furnished,15053589.04
+2826,2,3,3,Rural,Apartment,2003,20.10143708,1,Fully Furnished,2121035.255
+2830,4,3,2,Rural,Villa,2016,22.36392755,6,Semi-Furnished,15837332.21
+2838,4,3,2,Rural,Villa,2016,22.26439947,6,Semi-Furnished,15118303.78
+2884,2,3,3,Rural,Apartment,2003,19.87604583,1,Fully Furnished,1939776.926
+2495,3,1,1,Rural,Independent House,2001,29.60516928,15,Unfurnished,16656133.05
+2856,4,3,2,Urban,Villa,2016,21.34853126,6,Semi-Furnished,15035041.86
+2694,4,1,3,Suburban,Independent House,2021,12.06627518,8,Semi-Furnished,14873573.09
+1895,3,2,0,Rural,Villa,2004,26.4231991,7,Semi-Furnished,7071374.769
+2519,3,1,1,Suburban,Independent House,2001,29.36632287,15,Unfurnished,17630423.78
+2871,2,3,3,Rural,Apartment,2003,19.43941266,1,Fully Furnished,2115363.576
+2620,4,1,3,Rural,Independent House,2021,12.37788885,8,Semi-Furnished,14530523.62
+2525,3,1,1,Urban,Independent House,2001,29.64397112,15,Unfurnished,17314001.77
+2827,4,3,2,Urban,Villa,2016,22.09417975,6,Semi-Furnished,16175385.62
+855,1,4,2,Urban,Apartment,2016,13.25847573,17,Unfurnished,2901790.498
+2279,5,4,0,Rural,Villa,1999,11.46179841,9,Unfurnished,7566081.444
+2845,2,3,3,Suburban,Apartment,2003,19.61855033,1,Fully Furnished,2117041.141
+2841,2,3,3,Rural,Apartment,2003,19.39822936,1,Fully Furnished,1987843.251
+2494,3,1,1,Suburban,Independent House,2001,28.22421487,15,Unfurnished,17333598.92
+2275,5,4,0,Rural,Villa,1999,11.71138273,9,Unfurnished,7536026.512
+1920,3,2,0,Suburban,Villa,2004,25.9663686,7,Semi-Furnished,7105530.03
+2680,4,1,3,Urban,Independent House,2021,12.79928769,8,Semi-Furnished,14858274.3
+1141,4,2,2,Suburban,Apartment,1992,43.39930048,15,Semi-Furnished,1205617.241
+2555,3,1,1,Suburban,Independent House,2001,29.66529439,15,Unfurnished,16964736.62
+2499,3,1,1,Rural,Independent House,2001,28.17229542,15,Unfurnished,17380019.3
+1862,3,2,0,Urban,Villa,2004,25.29868008,7,Semi-Furnished,6826853.275
+2316,5,4,0,Urban,Villa,1999,12.25128335,9,Unfurnished,7433881.244
+2824,2,3,3,Urban,Apartment,2003,19.21424615,1,Fully Furnished,1951887.93
+2846,4,3,2,Rural,Villa,2016,23.08353453,6,Semi-Furnished,14954403.11
+839,1,4,2,Suburban,Apartment,2016,13.36430172,17,Unfurnished,2825898.597
+2890,2,3,3,Rural,Apartment,2003,18.43231016,1,Fully Furnished,2004316.819
+2323,5,4,0,Rural,Villa,1999,11.67579205,9,Unfurnished,7568010.438
+1982,4,4,1,Rural,Independent House,2015,45.8827213,2,Semi-Furnished,5996298.98
+1135,4,2,2,Urban,Apartment,1992,42.75744789,15,Semi-Furnished,1255243.083
+2486,3,1,1,Urban,Independent House,2001,29.40588733,15,Unfurnished,16458993.78
+2279,5,4,0,Suburban,Villa,1999,12.45185974,9,Unfurnished,7675397.433
+2276,5,4,0,Suburban,Villa,1999,11.50426846,9,Unfurnished,7674437.781
+2347,5,4,0,Suburban,Villa,1999,12.58927307,9,Unfurnished,7469716.555
+2785,4,3,2,Urban,Villa,2016,21.4984382,6,Semi-Furnished,15604093.66
+2694,4,1,3,Suburban,Independent House,2021,11.93832687,8,Semi-Furnished,15224024.47
+2011,4,4,1,Rural,Independent House,2015,44.52919449,2,Semi-Furnished,6126905.248
+1141,4,2,2,Rural,Apartment,1992,42.34371391,15,Semi-Furnished,1194749.797
+2879,4,3,2,Suburban,Villa,2016,22.45822207,6,Semi-Furnished,15992519.26
+864,1,4,2,Urban,Apartment,2016,12.71823375,17,Unfurnished,2859596.225
+2553,3,1,1,Suburban,Independent House,2001,28.31105849,15,Unfurnished,17099986.63
+2502,3,1,1,Rural,Independent House,2001,28.06708896,15,Unfurnished,16348755.85
+2822,4,3,2,Urban,Villa,2016,22.80506484,6,Semi-Furnished,15794925.67
+1843,3,2,0,Urban,Villa,2004,26.07749657,7,Semi-Furnished,6849285.559
+2610,4,1,3,Urban,Independent House,2021,12.78320201,8,Semi-Furnished,15320039.68
+1971,4,4,1,Urban,Independent House,2015,45.16677688,2,Semi-Furnished,6265695.797
+1234,4,2,2,Rural,Apartment,1992,41.72908948,15,Semi-Furnished,1225512.38
+1208,4,2,2,Suburban,Apartment,1992,43.24010036,15,Semi-Furnished,1229324.179
+1899,3,2,0,Suburban,Villa,2004,26.01947833,7,Semi-Furnished,6528247.458
+2021,4,4,1,Suburban,Independent House,2015,45.73986242,2,Semi-Furnished,6273883.274
+1996,4,4,1,Suburban,Independent House,2015,44.96178262,2,Semi-Furnished,6262343.5
+795,1,4,2,Suburban,Apartment,2016,13.56364771,17,Unfurnished,2876567.509
+2786,4,3,2,Suburban,Villa,2016,21.17047204,6,Semi-Furnished,15944901.29
+2566,3,1,1,Rural,Independent House,2001,29.97791144,15,Unfurnished,17707251.66
+2548,3,1,1,Suburban,Independent House,2001,29.19453136,15,Unfurnished,16395570.75
+1929,3,2,0,Suburban,Villa,2004,25.23647679,7,Semi-Furnished,6715692.1
+2687,4,1,3,Suburban,Independent House,2021,12.37615567,8,Semi-Furnished,14617166.19
+1198,4,2,2,Rural,Apartment,1992,43.11932795,15,Semi-Furnished,1288653.391
+2326,5,4,0,Urban,Villa,1999,12.3625788,9,Unfurnished,7430007.75
+846,1,4,2,Rural,Apartment,2016,13.64031693,17,Unfurnished,2724902.218
+2675,4,1,3,Suburban,Independent House,2021,11.78800767,8,Semi-Furnished,14531583.84
+2875,2,3,3,Urban,Apartment,2003,19.10945281,1,Fully Furnished,2043813.693
+2867,4,3,2,Urban,Villa,2016,21.19366665,6,Semi-Furnished,14901023.53
+2806,4,3,2,Urban,Villa,2016,22.27604015,6,Semi-Furnished,16039113.13
+1193,4,2,2,Suburban,Apartment,1992,43.18238405,15,Semi-Furnished,1234896.559
+1225,4,2,2,Suburban,Apartment,1992,43.49452746,15,Semi-Furnished,1292242.196
+1176,4,2,2,Suburban,Apartment,1992,42.39644939,15,Semi-Furnished,1224128.569
+2821,4,3,2,Suburban,Villa,2016,22.2310465,6,Semi-Furnished,15260362
+2867,2,3,3,Rural,Apartment,2003,18.9477667,1,Fully Furnished,2089759.93
+2892,2,3,3,Urban,Apartment,2003,19.96645281,1,Fully Furnished,2091164.42
+2345,5,4,0,Rural,Villa,1999,12.37935388,9,Unfurnished,7339948.116
+2310,5,4,0,Urban,Villa,1999,12.25142339,9,Unfurnished,7328687.191
+2309,5,4,0,Suburban,Villa,1999,12.22886,9,Unfurnished,7822193.89
+2494,3,1,1,Urban,Independent House,2001,28.9621784,15,Unfurnished,17774112.28
+2303,5,4,0,Suburban,Villa,1999,12.39598003,9,Unfurnished,7441151.57
+2872,2,3,3,Rural,Apartment,2003,19.91187549,1,Fully Furnished,1933167.84
+2867,2,3,3,Rural,Apartment,2003,19.90447601,1,Fully Furnished,1934121.211
+2836,4,3,2,Suburban,Villa,2016,21.90211275,6,Semi-Furnished,16049977.12
+1223,4,2,2,Urban,Apartment,1992,42.9038256,15,Semi-Furnished,1212941.241
+1894,3,2,0,Urban,Villa,2004,25.98006356,7,Semi-Furnished,6849620.009
+2681,4,1,3,Suburban,Independent House,2021,12.39430758,8,Semi-Furnished,14923551.45
+1890,3,2,0,Urban,Villa,2004,25.15926714,7,Semi-Furnished,6517980.833
+1847,3,2,0,Urban,Villa,2004,25.34842383,7,Semi-Furnished,6984282.705
+2691,4,1,3,Rural,Independent House,2021,12.37836815,8,Semi-Furnished,14984519.48
+2572,3,1,1,Suburban,Independent House,2001,28.51967063,15,Unfurnished,16461765.36
+1843,3,2,0,Urban,Villa,2004,25.69119097,7,Semi-Furnished,7007564.301
+2538,3,1,1,Suburban,Independent House,2001,28.0890767,15,Unfurnished,18045337.96
+2012,4,4,1,Urban,Independent House,2015,45.37633892,2,Semi-Furnished,5829163.703
+840,1,4,2,Urban,Apartment,2016,12.73449774,17,Unfurnished,2905076.25
+2655,4,1,3,Suburban,Independent House,2021,11.54685515,8,Semi-Furnished,15559488.9
+787,1,4,2,Urban,Apartment,2016,14.02291493,17,Unfurnished,2802020.256
+2870,4,3,2,Rural,Villa,2016,21.52509787,6,Semi-Furnished,16140432.53
+2842,4,3,2,Urban,Villa,2016,21.602835,6,Semi-Furnished,15989276.77
+1192,4,2,2,Rural,Apartment,1992,43.29923908,15,Semi-Furnished,1243914.539
+2281,5,4,0,Rural,Villa,1999,11.94824261,9,Unfurnished,7904663.453
+2043,4,4,1,Rural,Independent House,2015,44.93877493,2,Semi-Furnished,6249187.574
+2879,4,3,2,Urban,Villa,2016,21.71391043,6,Semi-Furnished,15232011.42
+1919,3,2,0,Suburban,Villa,2004,26.37954996,7,Semi-Furnished,6626637.354
+2667,4,1,3,Rural,Independent House,2021,12.57441835,8,Semi-Furnished,14764832.61
+2831,2,3,3,Rural,Apartment,2003,19.71877656,1,Fully Furnished,1969377.954
+2510,3,1,1,Suburban,Independent House,2001,28.96960995,15,Unfurnished,16684752.12
+843,1,4,2,Rural,Apartment,2016,13.64203994,17,Unfurnished,2968175.189
+2810,4,3,2,Rural,Villa,2016,21.16586235,6,Semi-Furnished,15093628.26
+2564,3,1,1,Rural,Independent House,2001,29.56887759,15,Unfurnished,18011114.73
+1155,4,2,2,Suburban,Apartment,1992,42.88578029,15,Semi-Furnished,1246565.087
+1880,3,2,0,Suburban,Villa,2004,25.78628118,7,Semi-Furnished,6902976.817
+2673,4,1,3,Urban,Independent House,2021,12.43247794,8,Semi-Furnished,14865861.68
+2537,3,1,1,Rural,Independent House,2001,29.7692389,15,Unfurnished,17955052.58
+807,1,4,2,Urban,Apartment,2016,12.90312465,17,Unfurnished,2935335.847
+2311,5,4,0,Urban,Villa,1999,11.99862651,9,Unfurnished,7273216.113
+2862,4,3,2,Rural,Villa,2016,22.84642987,6,Semi-Furnished,15381558.77
+2002,4,4,1,Suburban,Independent House,2015,45.52554218,2,Semi-Furnished,5732076.78
+2875,4,3,2,Rural,Villa,2016,22.87961268,6,Semi-Furnished,15234827.85
+847,1,4,2,Urban,Apartment,2016,13.68219793,17,Unfurnished,2923896.661
+2877,2,3,3,Rural,Apartment,2003,18.94403648,1,Fully Furnished,2078711.925
+1882,3,2,0,Urban,Villa,2004,26.45467031,7,Semi-Furnished,7043756.612
+812,1,4,2,Rural,Apartment,2016,14.05270913,17,Unfurnished,2779480.18
+2053,4,4,1,Suburban,Independent House,2015,46.23286529,2,Semi-Furnished,5876987.107
+1987,4,4,1,Urban,Independent House,2015,45.28623016,2,Semi-Furnished,6034192.458
+1919,3,2,0,Rural,Villa,2004,26.48136795,7,Semi-Furnished,6500479.925
+2825,2,3,3,Rural,Apartment,2003,19.03364881,1,Fully Furnished,2040057.842
+1936,3,2,0,Urban,Villa,2004,24.95754777,7,Semi-Furnished,7165701.691
+2798,4,3,2,Suburban,Villa,2016,22.76892939,6,Semi-Furnished,16130213.5
+2921,2,3,3,Suburban,Apartment,2003,19.31708554,1,Fully Furnished,1987959.817
+1940,3,2,0,Suburban,Villa,2004,26.50412986,7,Semi-Furnished,6881511.023
+783,1,4,2,Rural,Apartment,2016,13.09487264,17,Unfurnished,2810485.92
+1937,3,2,0,Rural,Villa,2004,25.38247207,7,Semi-Furnished,6850164.108
+1192,4,2,2,Rural,Apartment,1992,43.36187976,15,Semi-Furnished,1208171.617
+792,1,4,2,Rural,Apartment,2016,14.35887309,17,Unfurnished,2967491.951
+2850,2,3,3,Rural,Apartment,2003,19.02503294,1,Fully Furnished,2063400.535
+2289,5,4,0,Rural,Villa,1999,12.45837593,9,Unfurnished,7268011.81
+1843,3,2,0,Urban,Villa,2004,25.53123033,7,Semi-Furnished,6493257.933
+1213,4,2,2,Suburban,Apartment,1992,43.31942366,15,Semi-Furnished,1274656.181
+2331,5,4,0,Suburban,Villa,1999,11.74497258,9,Unfurnished,7922215.198
+2866,4,3,2,Suburban,Villa,2016,22.17797584,6,Semi-Furnished,16337982.26
+2649,4,1,3,Urban,Independent House,2021,11.15613212,8,Semi-Furnished,14958636.85
+2798,4,3,2,Rural,Villa,2016,21.4420318,6,Semi-Furnished,15146482.04
+2573,3,1,1,Rural,Independent House,2001,28.20282157,15,Unfurnished,16447749.18
+2640,4,1,3,Suburban,Independent House,2021,11.59248404,8,Semi-Furnished,14881940.1
+2639,4,1,3,Urban,Independent House,2021,11.70930207,8,Semi-Furnished,15442531.65
+1987,4,4,1,Rural,Independent House,2015,45.39307819,2,Semi-Furnished,6084371.918
+2337,5,4,0,Rural,Villa,1999,11.7418986,9,Unfurnished,7804548.813
+1208,4,2,2,Urban,Apartment,1992,43.25530324,15,Semi-Furnished,1219730.164
+2814,4,3,2,Suburban,Villa,2016,21.84241584,6,Semi-Furnished,15891494.12
+1941,3,2,0,Suburban,Villa,2004,25.32523517,7,Semi-Furnished,6677372.293
+2872,4,3,2,Rural,Villa,2016,22.9932667,6,Semi-Furnished,14994416.25
+2666,4,1,3,Urban,Independent House,2021,11.42544566,8,Semi-Furnished,14481507.33
+2662,4,1,3,Rural,Independent House,2021,12.32274248,8,Semi-Furnished,15486212.72
+2527,3,1,1,Suburban,Independent House,2001,29.73442546,15,Unfurnished,17202306.4
+2613,4,1,3,Urban,Independent House,2021,11.43367965,8,Semi-Furnished,14860220.81
+2859,2,3,3,Urban,Apartment,2003,18.33928589,1,Fully Furnished,2009380.111
+1937,3,2,0,Urban,Villa,2004,25.06030197,7,Semi-Furnished,6953219.851
+2353,5,4,0,Urban,Villa,1999,12.10054318,9,Unfurnished,7371601.221
+2363,5,4,0,Rural,Villa,1999,12.11933995,9,Unfurnished,7409821.581
+2480,3,1,1,Rural,Independent House,2001,29.32468067,15,Unfurnished,17996710.81
+2483,3,1,1,Rural,Independent House,2001,29.53303854,15,Unfurnished,17166468.18
+2345,5,4,0,Suburban,Villa,1999,12.03500396,9,Unfurnished,7381168.935
+1156,4,2,2,Urban,Apartment,1992,41.94768123,15,Semi-Furnished,1298902.773
+1965,4,4,1,Rural,Independent House,2015,46.28289993,2,Semi-Furnished,6097379.928
+841,1,4,2,Urban,Apartment,2016,13.43293269,17,Unfurnished,2823182.036
+1138,4,2,2,Urban,Apartment,1992,41.80084316,15,Semi-Furnished,1240889.803
+2705,4,1,3,Rural,Independent House,2021,11.10092266,8,Semi-Furnished,15039611.33
+2315,5,4,0,Rural,Villa,1999,12.08420027,9,Unfurnished,7558646.058
+808,1,4,2,Urban,Apartment,2016,12.95480068,17,Unfurnished,2723497.772
+1197,4,2,2,Suburban,Apartment,1992,42.72868252,15,Semi-Furnished,1211403.083
+2045,4,4,1,Suburban,Independent House,2015,46.16330214,2,Semi-Furnished,5766460.634
+1911,3,2,0,Suburban,Villa,2004,25.55048046,7,Semi-Furnished,6793866.713
+2051,4,4,1,Rural,Independent House,2015,45.73832165,2,Semi-Furnished,6249917.835
+2786,4,3,2,Suburban,Villa,2016,22.84309307,6,Semi-Furnished,14970249.99
+2830,4,3,2,Rural,Villa,2016,22.85855722,6,Semi-Furnished,15135540.48
+821,1,4,2,Urban,Apartment,2016,12.70822617,17,Unfurnished,2928808.112
+846,1,4,2,Urban,Apartment,2016,14.40392066,17,Unfurnished,2836664.669
+2299,5,4,0,Urban,Villa,1999,11.02300554,9,Unfurnished,7649955.857
+2884,2,3,3,Rural,Apartment,2003,19.93370127,1,Fully Furnished,2129079.423
+2007,4,4,1,Rural,Independent House,2015,44.66714274,2,Semi-Furnished,5965403.188
+2856,2,3,3,Rural,Apartment,2003,18.66279326,1,Fully Furnished,1985850.189
+2542,3,1,1,Urban,Independent House,2001,28.7526198,15,Unfurnished,16678472.09
+2919,2,3,3,Rural,Apartment,2003,18.29954106,1,Fully Furnished,2109382.417
+2343,5,4,0,Rural,Villa,1999,11.99394727,9,Unfurnished,7922592.545
+1856,3,2,0,Urban,Villa,2004,25.93891082,7,Semi-Furnished,7040454.078
+1865,3,2,0,Rural,Villa,2004,24.87273003,7,Semi-Furnished,6937247.586
+1962,4,4,1,Suburban,Independent House,2015,45.33480392,2,Semi-Furnished,6178182.506
+1907,3,2,0,Suburban,Villa,2004,26.40591084,7,Semi-Furnished,6679793.087
+2891,2,3,3,Rural,Apartment,2003,19.69657777,1,Fully Furnished,2058176.328
+866,1,4,2,Suburban,Apartment,2016,13.71005869,17,Unfurnished,2781698.347
+811,1,4,2,Urban,Apartment,2016,14.66942909,17,Unfurnished,2753049.083
+857,1,4,2,Rural,Apartment,2016,13.51496343,17,Unfurnished,2973133.502
+2290,5,4,0,Rural,Villa,1999,12.34759058,9,Unfurnished,7561307.844
+813,1,4,2,Urban,Apartment,2016,13.97955616,17,Unfurnished,2802446.284
+2897,2,3,3,Urban,Apartment,2003,18.90753102,1,Fully Furnished,2039849.815
+2922,2,3,3,Suburban,Apartment,2003,18.27536604,1,Fully Furnished,1951762.925
+1990,4,4,1,Urban,Independent House,2015,44.55753577,2,Semi-Furnished,5767219.645
+1913,3,2,0,Rural,Villa,2004,26.65566722,7,Semi-Furnished,6546816.885
+2913,2,3,3,Rural,Apartment,2003,18.6308434,1,Fully Furnished,1961270.894
+1159,4,2,2,Rural,Apartment,1992,43.53066718,15,Semi-Furnished,1309349.291
+2349,5,4,0,Rural,Villa,1999,11.8187805,9,Unfurnished,7266208.841
+2704,4,1,3,Suburban,Independent House,2021,11.41672891,8,Semi-Furnished,14318091.35
+2848,4,3,2,Urban,Villa,2016,22.21584055,6,Semi-Furnished,16233421.77
+823,1,4,2,Urban,Apartment,2016,13.45931019,17,Unfurnished,2755882.451
+2884,2,3,3,Rural,Apartment,2003,19.76023305,1,Fully Furnished,2099080.836
+2867,2,3,3,Rural,Apartment,2003,18.72453505,1,Fully Furnished,2111091.889
+2692,4,1,3,Suburban,Independent House,2021,12.33801466,8,Semi-Furnished,14430700.05
+2341,5,4,0,Urban,Villa,1999,12.57384999,9,Unfurnished,7685932.616
+2537,3,1,1,Rural,Independent House,2001,28.21177993,15,Unfurnished,17101893.51
+1851,3,2,0,Rural,Villa,2004,25.90049706,7,Semi-Furnished,6955987.948
